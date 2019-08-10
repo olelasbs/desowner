@@ -1,2 +1,0 @@
-# desowner
-design owner
